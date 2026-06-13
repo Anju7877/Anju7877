@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Anju Khedar
-
-## About Me
+## 👩‍💻 About Me
 
 🎓 MCA Student
 
@@ -16,7 +14,7 @@
 
 ---
 
-## Skills
+## 🚀 Skills
 
 ### Programming & Databases
 
@@ -52,7 +50,7 @@
 
 ---
 
-## Projects
+## 📂 Projects
 
 ### Tata Steel Machine Failure Prediction
 
@@ -62,18 +60,18 @@
 * Implemented Logistic Regression, Random Forest, and XGBoost models.
 
 🔗 Repository:
-github.com/Anju7877/Tata-Steel-machine-prediction
+https://github.com/Anju7877/Tata-Steel-machine-prediction
 
 ---
 
-## Education
+## 🎓 Education
 
 * Master of Computer Applications (MCA)
 * Postgraduate Diploma (UK)
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 💼 LinkedIn:
 https://www.linkedin.com/in/anjukhedar
